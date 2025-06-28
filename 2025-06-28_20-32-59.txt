@@ -1,0 +1,255 @@
+2025-06-28 20:33:09,832: Special Key Key.enter pressed.
+2025-06-28 20:33:10,856: Special Key Key.enter pressed.
+2025-06-28 20:33:11,723: Key h pressed.
+2025-06-28 20:33:11,903: Key e pressed.
+2025-06-28 20:33:12,901: Special Key Key.backspace pressed.
+2025-06-28 20:33:13,135: Special Key Key.backspace pressed.
+2025-06-28 20:33:13,349: Special Key Key.backspace pressed.
+2025-06-28 20:33:14,253: Special Key Key.space pressed.
+2025-06-28 20:33:14,549: Key h pressed.
+2025-06-28 20:33:14,720: Key e pressed.
+2025-06-28 20:33:15,459: Key l pressed.
+2025-06-28 20:33:15,619: Key l pressed.
+2025-06-28 20:33:15,787: Key o pressed.
+2025-06-28 20:34:36,526: Special Key Key.print_screen pressed.
+2025-06-28 20:35:20,978: Special Key Key.ctrl_l pressed.
+2025-06-28 20:35:21,201: Key  pressed.
+2025-06-28 20:35:22,299: Special Key Key.enter pressed.
+2025-06-28 20:35:30,316: Key f pressed.
+2025-06-28 20:35:30,504: Key a pressed.
+2025-06-28 20:35:31,471: Special Key Key.backspace pressed.
+2025-06-28 20:35:31,670: Special Key Key.backspace pressed.
+2025-06-28 20:35:34,132: Key f pressed.
+2025-06-28 20:35:34,370: Key a pressed.
+2025-06-28 20:35:34,512: Key h pressed.
+2025-06-28 20:35:34,704: Key i pressed.
+2025-06-28 20:35:34,956: Key m pressed.
+2025-06-28 20:35:35,764: Special Key Key.backspace pressed.
+2025-06-28 20:35:36,270: Special Key Key.backspace pressed.
+2025-06-28 20:35:36,299: Special Key Key.backspace pressed.
+2025-06-28 20:35:36,329: Special Key Key.backspace pressed.
+2025-06-28 20:35:36,359: Special Key Key.backspace pressed.
+2025-06-28 20:35:36,389: Special Key Key.backspace pressed.
+2025-06-28 20:35:36,420: Special Key Key.backspace pressed.
+2025-06-28 20:35:36,450: Special Key Key.backspace pressed.
+2025-06-28 20:35:36,480: Special Key Key.backspace pressed.
+2025-06-28 20:36:27,035: Special Key Key.ctrl_l pressed.
+2025-06-28 20:36:27,851: Key  pressed.
+2025-06-28 20:36:30,878: Special Key Key.ctrl_l pressed.
+2025-06-28 20:36:33,106: Key  pressed.
+2025-06-28 20:36:33,493: Special Key Key.enter pressed.
+2025-06-28 20:36:56,213: Special Key Key.ctrl_l pressed.
+2025-06-28 20:36:56,970: Key  pressed.
+2025-06-28 20:37:20,938: Special Key Key.ctrl_l pressed.
+2025-06-28 20:37:21,097: Special Key Key.shift pressed.
+2025-06-28 20:37:21,775: Special Key Key.esc pressed.
+2025-06-28 20:37:33,054: Special Key Key.shift_r pressed.
+2025-06-28 20:37:33,256: Special Key Key.enter pressed.
+2025-06-28 20:37:33,957: Special Key Key.ctrl_l pressed.
+2025-06-28 20:37:35,385: Key  pressed.
+2025-06-28 20:37:46,440: Special Key Key.backspace pressed.
+2025-06-28 20:37:46,886: Special Key Key.backspace pressed.
+2025-06-28 20:37:51,036: Special Key Key.backspace pressed.
+2025-06-28 20:37:52,693: Special Key Key.backspace pressed.
+2025-06-28 20:37:54,739: Special Key Key.enter pressed.
+2025-06-28 20:38:02,885: Special Key Key.shift_r pressed.
+2025-06-28 20:38:06,496: Special Key Key.right pressed.
+2025-06-28 20:38:06,914: Special Key Key.shift_r pressed.
+2025-06-28 20:38:07,149: Special Key Key.enter pressed.
+2025-06-28 20:38:08,753: Special Key Key.shift_r pressed.
+2025-06-28 20:38:09,070: Special Key Key.enter pressed.
+2025-06-28 20:38:10,325: Key - pressed.
+2025-06-28 20:38:10,502: Key - pressed.
+2025-06-28 20:38:10,655: Key - pressed.
+2025-06-28 20:38:11,486: Special Key Key.down pressed.
+2025-06-28 20:38:11,763: Special Key Key.left pressed.
+2025-06-28 20:38:11,994: Special Key Key.left pressed.
+2025-06-28 20:38:12,800: Special Key Key.down pressed.
+2025-06-28 20:38:13,174: Special Key Key.left pressed.
+2025-06-28 20:38:13,861: Special Key Key.shift pressed.
+2025-06-28 20:38:14,468: Key # pressed.
+2025-06-28 20:38:14,748: Key # pressed.
+2025-06-28 20:38:15,026: Key # pressed.
+2025-06-28 20:38:15,361: Special Key Key.shift pressed.
+2025-06-28 20:38:15,466: Special Key Key.shift pressed.
+2025-06-28 20:38:15,639: Special Key Key.shift pressed.
+2025-06-28 20:38:16,131: Special Key Key.space pressed.
+2025-06-28 20:38:16,964: Special Key Key.down pressed.
+2025-06-28 20:38:17,357: Special Key Key.down pressed.
+2025-06-28 20:38:17,885: Special Key Key.down pressed.
+2025-06-28 20:38:18,217: Special Key Key.down pressed.
+2025-06-28 20:38:18,420: Special Key Key.down pressed.
+2025-06-28 20:38:18,606: Special Key Key.down pressed.
+2025-06-28 20:38:18,789: Special Key Key.down pressed.
+2025-06-28 20:38:18,972: Special Key Key.down pressed.
+2025-06-28 20:38:19,160: Special Key Key.down pressed.
+2025-06-28 20:38:19,938: Special Key Key.left pressed.
+2025-06-28 20:38:20,452: Special Key Key.down pressed.
+2025-06-28 20:38:21,835: Special Key Key.shift_r pressed.
+2025-06-28 20:38:22,076: Special Key Key.enter pressed.
+2025-06-28 20:38:22,991: Key - pressed.
+2025-06-28 20:38:23,158: Key - pressed.
+2025-06-28 20:38:23,309: Key - pressed.
+2025-06-28 20:38:23,878: Special Key Key.shift_r pressed.
+2025-06-28 20:38:24,110: Special Key Key.enter pressed.
+2025-06-28 20:38:25,538: Special Key Key.right pressed.
+2025-06-28 20:38:26,372: Special Key Key.shift pressed.
+2025-06-28 20:38:27,103: Key # pressed.
+2025-06-28 20:38:27,289: Key # pressed.
+2025-06-28 20:38:27,516: Key # pressed.
+2025-06-28 20:38:28,486: Special Key Key.space pressed.
+2025-06-28 20:38:29,718: Special Key Key.down pressed.
+2025-06-28 20:38:30,221: Special Key Key.down pressed.
+2025-06-28 20:38:30,517: Special Key Key.down pressed.
+2025-06-28 20:38:30,952: Special Key Key.down pressed.
+2025-06-28 20:38:31,479: Special Key Key.down pressed.
+2025-06-28 20:38:32,175: Special Key Key.up pressed.
+2025-06-28 20:38:32,446: Special Key Key.up pressed.
+2025-06-28 20:38:32,970: Key ] pressed.
+2025-06-28 20:38:33,196: Key ] pressed.
+2025-06-28 20:38:34,191: Special Key Key.backspace pressed.
+2025-06-28 20:38:34,693: Special Key Key.backspace pressed.
+2025-06-28 20:38:34,723: Special Key Key.backspace pressed.
+2025-06-28 20:38:34,900: Special Key Key.backspace pressed.
+2025-06-28 20:38:35,074: Special Key Key.backspace pressed.
+2025-06-28 20:38:35,254: Special Key Key.backspace pressed.
+2025-06-28 20:38:35,437: Special Key Key.backspace pressed.
+2025-06-28 20:38:35,613: Special Key Key.backspace pressed.
+2025-06-28 20:38:35,777: Special Key Key.backspace pressed.
+2025-06-28 20:38:35,953: Special Key Key.backspace pressed.
+2025-06-28 20:38:36,133: Special Key Key.backspace pressed.
+2025-06-28 20:38:36,332: Special Key Key.backspace pressed.
+2025-06-28 20:38:36,540: Special Key Key.backspace pressed.
+2025-06-28 20:38:36,856: Special Key Key.backspace pressed.
+2025-06-28 20:38:37,042: Special Key Key.backspace pressed.
+2025-06-28 20:38:37,215: Special Key Key.backspace pressed.
+2025-06-28 20:38:37,648: Special Key Key.backspace pressed.
+2025-06-28 20:38:39,249: Special Key Key.down pressed.
+2025-06-28 20:38:39,751: Special Key Key.down pressed.
+2025-06-28 20:38:39,782: Special Key Key.down pressed.
+2025-06-28 20:38:39,811: Special Key Key.down pressed.
+2025-06-28 20:38:39,843: Special Key Key.down pressed.
+2025-06-28 20:38:39,872: Special Key Key.down pressed.
+2025-06-28 20:38:39,902: Special Key Key.down pressed.
+2025-06-28 20:38:39,932: Special Key Key.down pressed.
+2025-06-28 20:38:39,963: Special Key Key.down pressed.
+2025-06-28 20:38:39,995: Special Key Key.down pressed.
+2025-06-28 20:38:40,024: Special Key Key.down pressed.
+2025-06-28 20:38:40,054: Special Key Key.down pressed.
+2025-06-28 20:38:40,085: Special Key Key.down pressed.
+2025-06-28 20:38:40,850: Special Key Key.up pressed.
+2025-06-28 20:38:42,247: Special Key Key.down pressed.
+2025-06-28 20:38:42,594: Special Key Key.down pressed.
+2025-06-28 20:38:43,705: Special Key Key.shift_r pressed.
+2025-06-28 20:38:44,518: Special Key Key.up pressed.
+2025-06-28 20:38:45,019: Special Key Key.up pressed.
+2025-06-28 20:38:45,049: Special Key Key.up pressed.
+2025-06-28 20:38:45,313: Special Key Key.up pressed.
+2025-06-28 20:38:45,889: Special Key Key.left pressed.
+2025-06-28 20:38:46,391: Special Key Key.left pressed.
+2025-06-28 20:38:46,421: Special Key Key.left pressed.
+2025-06-28 20:38:46,452: Special Key Key.left pressed.
+2025-06-28 20:38:46,481: Special Key Key.left pressed.
+2025-06-28 20:38:46,512: Special Key Key.left pressed.
+2025-06-28 20:38:46,542: Special Key Key.left pressed.
+2025-06-28 20:38:46,572: Special Key Key.left pressed.
+2025-06-28 20:38:46,603: Special Key Key.left pressed.
+2025-06-28 20:38:46,633: Special Key Key.left pressed.
+2025-06-28 20:38:46,663: Special Key Key.left pressed.
+2025-06-28 20:38:46,694: Special Key Key.left pressed.
+2025-06-28 20:38:46,724: Special Key Key.left pressed.
+2025-06-28 20:38:46,754: Special Key Key.left pressed.
+2025-06-28 20:38:46,784: Special Key Key.left pressed.
+2025-06-28 20:38:46,815: Special Key Key.left pressed.
+2025-06-28 20:38:46,844: Special Key Key.left pressed.
+2025-06-28 20:38:46,874: Special Key Key.left pressed.
+2025-06-28 20:38:46,904: Special Key Key.left pressed.
+2025-06-28 20:38:47,215: Special Key Key.down pressed.
+2025-06-28 20:38:47,582: Special Key Key.left pressed.
+2025-06-28 20:38:48,241: Special Key Key.shift_r pressed.
+2025-06-28 20:38:48,510: Special Key Key.enter pressed.
+2025-06-28 20:38:51,287: Key - pressed.
+2025-06-28 20:38:51,489: Key - pressed.
+2025-06-28 20:38:51,662: Key - pressed.
+2025-06-28 20:38:51,826: Key - pressed.
+2025-06-28 20:38:52,595: Special Key Key.backspace pressed.
+2025-06-28 20:38:53,085: Special Key Key.shift_r pressed.
+2025-06-28 20:38:53,363: Special Key Key.enter pressed.
+2025-06-28 20:38:54,082: Special Key Key.shift_r pressed.
+2025-06-28 20:38:54,253: Special Key Key.enter pressed.
+2025-06-28 20:38:55,172: Special Key Key.shift pressed.
+2025-06-28 20:38:55,818: Key # pressed.
+2025-06-28 20:38:56,103: Key # pressed.
+2025-06-28 20:38:56,310: Key # pressed.
+2025-06-28 20:38:57,249: Special Key Key.space pressed.
+2025-06-28 20:38:57,593: Special Key Key.shift_r pressed.
+2025-06-28 20:38:57,859: Special Key Key.enter pressed.
+2025-06-28 20:38:58,905: Special Key Key.backspace pressed.
+2025-06-28 20:38:59,986: Special Key Key.up pressed.
+2025-06-28 20:39:00,222: Special Key Key.down pressed.
+2025-06-28 20:39:00,586: Special Key Key.down pressed.
+2025-06-28 20:39:00,911: Special Key Key.down pressed.
+2025-06-28 20:39:01,412: Special Key Key.down pressed.
+2025-06-28 20:39:01,442: Special Key Key.down pressed.
+2025-06-28 20:39:01,472: Special Key Key.down pressed.
+2025-06-28 20:39:01,502: Special Key Key.down pressed.
+2025-06-28 20:39:01,532: Special Key Key.down pressed.
+2025-06-28 20:39:01,562: Special Key Key.down pressed.
+2025-06-28 20:39:01,593: Special Key Key.down pressed.
+2025-06-28 20:39:01,623: Special Key Key.down pressed.
+2025-06-28 20:39:01,654: Special Key Key.down pressed.
+2025-06-28 20:39:02,820: Special Key Key.down pressed.
+2025-06-28 20:39:03,714: Special Key Key.down pressed.
+2025-06-28 20:39:04,218: Special Key Key.down pressed.
+2025-06-28 20:39:04,248: Special Key Key.down pressed.
+2025-06-28 20:39:04,279: Special Key Key.down pressed.
+2025-06-28 20:39:04,309: Special Key Key.down pressed.
+2025-06-28 20:39:04,339: Special Key Key.down pressed.
+2025-06-28 20:39:04,370: Special Key Key.down pressed.
+2025-06-28 20:39:04,400: Special Key Key.down pressed.
+2025-06-28 20:39:04,433: Special Key Key.down pressed.
+2025-06-28 20:39:04,793: Special Key Key.down pressed.
+2025-06-28 20:39:05,298: Special Key Key.down pressed.
+2025-06-28 20:39:05,329: Special Key Key.down pressed.
+2025-06-28 20:39:05,359: Special Key Key.down pressed.
+2025-06-28 20:39:05,391: Special Key Key.down pressed.
+2025-06-28 20:39:05,421: Special Key Key.down pressed.
+2025-06-28 20:39:05,452: Special Key Key.down pressed.
+2025-06-28 20:39:05,484: Special Key Key.down pressed.
+2025-06-28 20:39:05,514: Special Key Key.down pressed.
+2025-06-28 20:39:05,546: Special Key Key.down pressed.
+2025-06-28 20:39:05,576: Special Key Key.down pressed.
+2025-06-28 20:39:05,607: Special Key Key.down pressed.
+2025-06-28 20:39:05,637: Special Key Key.down pressed.
+2025-06-28 20:39:09,910: Special Key Key.shift pressed.
+2025-06-28 20:39:12,166: Special Key Key.up pressed.
+2025-06-28 20:39:13,917: Special Key Key.enter pressed.
+2025-06-28 20:39:14,531: Special Key Key.shift pressed.
+2025-06-28 20:39:15,143: Key _ pressed.
+2025-06-28 20:39:15,313: Key _ pressed.
+2025-06-28 20:39:15,473: Key _ pressed.
+2025-06-28 20:39:16,692: Special Key Key.backspace pressed.
+2025-06-28 20:39:16,862: Special Key Key.backspace pressed.
+2025-06-28 20:39:17,009: Special Key Key.backspace pressed.
+2025-06-28 20:39:17,888: Key - pressed.
+2025-06-28 20:39:18,101: Key - pressed.
+2025-06-28 20:39:18,262: Key - pressed.
+2025-06-28 20:39:19,327: Special Key Key.down pressed.
+2025-06-28 20:39:20,146: Special Key Key.left pressed.
+2025-06-28 20:39:20,387: Special Key Key.shift pressed.
+2025-06-28 20:39:20,897: Key # pressed.
+2025-06-28 20:39:21,141: Key # pressed.
+2025-06-28 20:39:21,356: Key # pressed.
+2025-06-28 20:39:21,947: Special Key Key.space pressed.
+2025-06-28 20:39:22,924: Special Key Key.down pressed.
+2025-06-28 20:39:23,428: Special Key Key.down pressed.
+2025-06-28 20:39:23,458: Special Key Key.down pressed.
+2025-06-28 20:39:23,490: Special Key Key.down pressed.
+2025-06-28 20:39:23,519: Special Key Key.down pressed.
+2025-06-28 20:39:23,549: Special Key Key.down pressed.
+2025-06-28 20:39:23,581: Special Key Key.down pressed.
+2025-06-28 20:39:23,611: Special Key Key.down pressed.
+2025-06-28 20:39:23,643: Special Key Key.down pressed.
+2025-06-28 20:41:56,264: Special Key Key.ctrl_l pressed.
+2025-06-28 20:41:59,448: Special Key Key.ctrl_l pressed.
+2025-06-28 20:42:21,542: Special Key Key.ctrl_l pressed.
