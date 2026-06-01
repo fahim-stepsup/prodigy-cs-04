@@ -1,13 +1,12 @@
-# prodigy-cs-04
 # ⌨️ Python Keylogger (Educational Use Only)
 
 This project is a **Python-based keylogger** that logs all keyboard inputs into a timestamped file. It uses the `pynput` library to monitor keystrokes and logs them with a timestamp for each entry.
 
-> ⚠️ **Disclaimer:** This script is provided **strictly for educational, ethical, and authorized purposes only**. Do **not** use this on devices or systems without proper consent, as it may violate privacy laws or computer misuse acts.
+>  **Disclaimer:** This script is provided **strictly for educational, ethical, and authorized purposes only**. Do **not** use this on devices or systems without proper consent, as it may violate privacy laws or computer misuse acts.
 
 ---
 
-## 📌 Features
+##  Features
 
 - Captures every keypress including special keys
 - Stores logs in a `keylogs/` directory
@@ -16,7 +15,7 @@ This project is a **Python-based keylogger** that logs all keyboard inputs into 
 
 ---
 
-## 🛠️ Requirements
+##  Requirements
 
 - Python 3.x
 - [pynput](https://pypi.org/project/pynput/)
@@ -26,7 +25,7 @@ Install dependencies using:
 pip install pynput
 
 ---
-### ▶️ How to Run
+###  How to Run
 
 python keylogger.py
 The script will:
@@ -39,7 +38,7 @@ Stop only when the Python process is manually terminated
 
 ---
 
-### 📂 Output Example
+###  Output Example
 keylogs/
 └── 2025-06-28_15-30-10.txt
 Contents of log file:
@@ -53,7 +52,7 @@ Edit
 
 ---
 
-### 📄 Legal & Ethical Use
+###  Legal & Ethical Use
 This tool is intended for:
 
 Cybersecurity students
@@ -62,9 +61,9 @@ Parental monitoring (with child awareness)
 
 Personal productivity or usability testing
 
-❌ Never use this script on public, workplace, or third-party systems without explicit permission.
+ Never use this script on public, workplace, or third-party systems without explicit permission.
 
 ---
-### 👨‍💻 Author
+###  Author
 Fahim Akthar
 B.Tech Cyber Security | Crescent Institute of Science and Technology
