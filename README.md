@@ -1,4 +1,4 @@
-# ⌨️ Python Keylogger (Educational Use Only)
+#  Python Keylogger (Educational Use Only)
 
 This project is a **Python-based keylogger** that logs all keyboard inputs into a timestamped file. It uses the `pynput` library to monitor keystrokes and logs them with a timestamp for each entry.
 
